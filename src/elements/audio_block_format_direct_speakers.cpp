@@ -1,4 +1,5 @@
 #include "adm/elements/audio_block_format_direct_speakers.hpp"
+#include <algorithm>
 
 namespace adm {
 
